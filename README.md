@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Yan Linn Aung
 - 👀 I’m interested in Web Development & Software Development
-  - 📫 How to reach me https://instagram.com/_yanlinnaung?igshid=NGExMmI2YTkyZg==
+- 📫 How to reach me https://instagram.com/_yanlinnaung?igshid=NGExMmI2YTkyZg==
