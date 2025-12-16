@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Yan Linn Aung
 - 👀 I’m interested in Web Development & Software Development
-- 🌱 I’m currently learning front-end(html, css, js, reactjs) & Software Development (C#, Java, MySql)
-- 📫 How to reach me https://instagram.com/_yanlinnaung?igshid=NGExMmI2YTkyZg==
+  - 📫 How to reach me https://instagram.com/_yanlinnaung?igshid=NGExMmI2YTkyZg==
